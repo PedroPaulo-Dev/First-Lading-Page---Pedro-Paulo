@@ -1,0 +1,31 @@
+
+
+.main-bg {
+    background-image: url('../Img/FundoMain.svg');
+    background-size: cover;
+    background-position: center center;
+    
+}
+.main-content{
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 6rem var(--gap);
+}
+
+.section{
+    min-height: 100vh;
+}
+
+.white-bg{
+   background-color: var(--white);
+   color: var(--Primary-color);
+}
+
+.menu-spacing{
+    height: 65px;
+}
+
+div.full-width {
+    width: 100%;
+    flex: 1 1 100%;
+}
